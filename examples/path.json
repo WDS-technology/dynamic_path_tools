@@ -1,0 +1,76 @@
+[
+  {
+    "type": "SCHEDULE_SET_FLIGHT"
+  },
+  {
+    "arguments": {
+      "version": "3.0.0"
+    },
+    "type": "SCHEDULE_PLANNER_VERSION"
+  },
+  {
+    "type": "SCHEDULE_TAKEOFF",
+    "arguments": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.3,
+      "yaw": 90,
+      "max_speed_xy": 0.5
+    },
+    "id": "TAKEOFF_001"
+  },
+  {
+    "arguments": {
+      "period": 2
+    },
+    "type": "SCHEDULE_WAIT_FOR_PERIOD",
+    "id": "WAIT_001"
+  },
+  {
+    "arguments": {
+      "x": 0,
+      "y": -2.0
+    },
+    "type": "SCHEDULE_FLY_TO_XY",
+    "id": "FLY_XY_001"
+  },
+  {
+    "arguments": {
+      "period": 3
+    },
+    "type": "SCHEDULE_WAIT_FOR_PERIOD",
+    "id": "WAIT_002"
+  },
+  {
+    "arguments": {
+      "z": 0.6
+    },
+    "type": "SCHEDULE_FLY_TO_Z",
+    "id": "FLY_Z_001"
+  },
+  {
+    "arguments": {
+      "period": 3
+    },
+    "type": "SCHEDULE_WAIT_FOR_PERIOD",
+    "id": "LOOK_FOR_LAND_002"
+  },
+  {
+    "type": "SCHEDULE_WAIT_FOR_EXTERNAL_COMMAND",
+    "id": "EXT_001"
+  },
+  {
+    "type": "SCHEDULE_LAND_AT_CURRENT_POSITION",
+    "id": "LANDING"
+  },
+  {
+    "type": "START_TASK",
+    "arguments": {
+      "task": {
+        "description": "",
+        "id": "JsNis48JmatqrH8id68b",
+        "name": "42L C-G"
+      }
+    }
+  }
+]

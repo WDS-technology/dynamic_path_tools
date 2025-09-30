@@ -1,0 +1,28 @@
+path_file: "/home/ubuntu/Documents/WDS-repo/paths/rami_levi_het/het_4/commands_full_flight_het_4.json"
+battery_time_minutes: 15
+landing_phase_duration_minutes: 0
+
+command_delays_seconds:
+  WAIT: 0
+  TAKEOFF: 0.5
+  MOVE_XY: 2.5
+  MOVE_Z: 2.6
+  SET_SPEED: 0
+
+calibration:
+  speeds:
+    0.5:
+      horizontal: 1.0
+      vertical_up: 1.0
+      vertical_down: 1.0
+      wait: 1.0
+    1.0:
+      horizontal: 1.0
+      vertical_up: 1.0
+      vertical_down: 1.0
+      wait: 1.0
+    1.5:
+      horizontal: 1.0
+      vertical_up: 1.0
+      vertical_down: 1.0
+      wait: 1.0

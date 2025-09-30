@@ -1,0 +1,6 @@
+sqlalchemy
+boto3
+PyYAML
+psycopg2-binary
+networkx
+matplotlib
