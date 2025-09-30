@@ -115,3 +115,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+warehouse_map.json
+
+drone_path.json
