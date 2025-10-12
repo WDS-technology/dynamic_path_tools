@@ -18,8 +18,15 @@ def generate_passages(
     passages = []
     for idx, x in enumerate(x_values, start=1):
         for order, (y, z) in enumerate(yz_values, start=1):
+            # Calculate passage_id based on the given pattern
+            # 1 -> 13
+            # 2 -> 15
+            # 3 -> 17
+            # 4 -> 19
+            # 5 -> so on
+
             passages.append({
-                "passage_id": str(idx),
+                "passage_id": str(idx * 2 + 11),
                 "order": order,
                 "position_x": x,
                 "position_y": y,

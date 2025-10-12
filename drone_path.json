@@ -14,33 +14,7 @@
   {
     "type": "SCHEDULE_FLY_TO_XY",
     "arguments": {
-      "x": 0,
-      "y": -2.9
-    }
-  },
-  {
-    "type": "SCHEDULE_WAIT_FOR_PERIOD",
-    "arguments": {
-      "period": 2
-    }
-  },
-  {
-    "type": "SCHEDULE_FLY_TO_XY",
-    "arguments": {
-      "x": 0,
-      "y": -7.9
-    }
-  },
-  {
-    "type": "SCHEDULE_WAIT_FOR_PERIOD",
-    "arguments": {
-      "period": 2
-    }
-  },
-  {
-    "type": "SCHEDULE_FLY_TO_XY",
-    "arguments": {
-      "x": 0,
+      "x": -11.46,
       "y": -12.9
     }
   },
@@ -53,7 +27,7 @@
   {
     "type": "SCHEDULE_FLY_TO_XY",
     "arguments": {
-      "x": 0,
+      "x": -11.46,
       "y": -17.9
     }
   },
@@ -66,7 +40,7 @@
   {
     "type": "SCHEDULE_FLY_TO_XY",
     "arguments": {
-      "x": 0,
+      "x": -11.46,
       "y": -19.9
     }
   },
@@ -79,8 +53,8 @@
   {
     "type": "SCHEDULE_FLY_TO_XY",
     "arguments": {
-      "x": 0,
-      "y": -21.9
+      "x": -5.73,
+      "y": -19.9
     }
   },
   {
@@ -92,8 +66,8 @@
   {
     "type": "SCHEDULE_FLY_TO_XY",
     "arguments": {
-      "x": 0,
-      "y": -26.9
+      "x": -5.73,
+      "y": -17.9
     }
   },
   {
@@ -105,8 +79,21 @@
   {
     "type": "SCHEDULE_FLY_TO_XY",
     "arguments": {
-      "x": 0,
-      "y": -31.9
+      "x": -5.73,
+      "y": -12.9
+    }
+  },
+  {
+    "type": "SCHEDULE_WAIT_FOR_PERIOD",
+    "arguments": {
+      "period": 2
+    }
+  },
+  {
+    "type": "SCHEDULE_FLY_TO_XY",
+    "arguments": {
+      "x": -5.73,
+      "y": -7.9
     }
   },
   {
