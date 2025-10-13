@@ -1,8 +1,8 @@
 import yaml
 from pathlib import Path
-from typing import Any, Dict
+from typing import Any, Dict, Union
 
-def load_config(config_path: str | Path) -> Dict[str, Any]:
+def load_config(config_path: Union[str, Path]) -> Dict[str, Any]:
     """
     Load YAML configuration file.
 

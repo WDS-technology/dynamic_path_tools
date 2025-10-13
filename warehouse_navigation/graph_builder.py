@@ -1,13 +1,12 @@
 import json
 from pathlib import Path
+from typing import Union, List, Dict, Tuple
 import networkx as nx
 import matplotlib.pyplot as plt
 from collections import defaultdict
 from math import sqrt
-import glob
-from pathlib import Path
 
-def load_warehouse_map(path: str | Path) -> list[dict]:
+def load_warehouse_map(path: Union[str, Path]) -> List[Dict]:
     """Load warehouse map from JSON file (flat list of passage points)."""
     path = Path(path)
     if not path.exists():
@@ -15,7 +14,7 @@ def load_warehouse_map(path: str | Path) -> list[dict]:
     with path.open("r") as f:
         return json.load(f)["passages"]
 
-def build_graph(passages: list[dict]):
+def build_graph(passages: List[Dict]):
     """
     Build a directed graph from warehouse map passages and return:
       - G: networkx.DiGraph with nodes storing positions
@@ -66,12 +65,12 @@ def build_graph(passages: list[dict]):
         wp_next = next(p for p in next_points if p["is_intersection"])
         node_curr = f"P{wp_curr['passage_id']}_W{wp_curr['order']}"
         node_next = f"P{wp_next['passage_id']}_W{wp_next['order']}"
-        G.add_edge(node_curr, node_next)
-        G.add_edge(node_next, node_curr)
+        G.add_edge(node_curr, node_next) # forward
+        G.add_edge(node_next, node_curr) # backward
 
     return G, pos_to_node
 
-def shortest_path(G: nx.DiGraph, start: str, end: str, return_coords: bool = False) -> tuple:
+def shortest_path(G: nx.DiGraph, start: str, end: str, return_coords: bool = False) -> List:
     """
     Compute shortest path between start and end nodes.
 
@@ -82,42 +81,17 @@ def shortest_path(G: nx.DiGraph, start: str, end: str, return_coords: bool = Fal
         return_coords: if True, return list of coordinates instead of node IDs.
 
     Returns:
-        Tuple containing:
-            - List of node IDs or list of coordinates along the path.
-            - The content of the YAML file connecting the start and end passages, or None.
+        List of node IDs or list of coordinates along the path.
     """
     path_nodes = nx.shortest_path(G, source=start, target=end)
     
-    start_passage = path_nodes[0].split('_W')[0][1:]
-    end_passage = path_nodes[-1].split('_W')[0][1:]
-
-    print(f"Start passage: {start_passage}")
-    print(f"End passage: {end_passage}")
-
-    file_content = None
-    yaml_files = glob.glob("warehouse_navigation/data/*.yaml")
-
-    print("yaml_files", yaml_files)
-
-    passage_version_1 = start_passage.split("_")[0] + "_" + end_passage.split("_")[0]
-    passage_version_2 = end_passage.split("_")[0] + "_" + start_passage.split("_")[0]
-
-    print("Looking for passage versions:", passage_version_1, passage_version_2)
-    
-    for yaml_file in yaml_files:
-        filename = Path(yaml_file).name
-        if passage_version_1 in filename or passage_version_2 in filename:
-            with open(yaml_file, 'r') as f:
-                file_content = f.read()
-            break
-
     if return_coords:
-        return [G.nodes[node]["pos"] for node in path_nodes], file_content
+        return [G.nodes[node]["pos"] for node in path_nodes]
     else:
-        return path_nodes, file_content
+        return path_nodes
 
 
-def plot_path(G: nx.DiGraph, path: list[str], title: str = ""):
+def plot_path(G: nx.DiGraph, path: List[str], title: str = ""):
     """Plot graph with highlighted path, ignoring Z."""
     # Extract only x, y for plotting
     pos = {node: (coords[0], coords[1]) for node, coords in nx.get_node_attributes(G, 'pos').items()}
@@ -131,7 +105,8 @@ def plot_path(G: nx.DiGraph, path: list[str], title: str = ""):
     plt.axis('equal')
     plt.show()
 
-def find_closest_node(G: nx.DiGraph, target_pos: tuple[float, float, float]) -> dict:
+
+def find_closest_node(G: nx.DiGraph, target_pos: Tuple[float, float, float]) -> Dict:
     """
     Find the closest node in the graph to a given position.
 
@@ -160,4 +135,3 @@ def find_closest_node(G: nx.DiGraph, target_pos: tuple[float, float, float]) -> 
             closest_pos = (x, y, z)
 
     return {"node_id": closest_node, "pos": closest_pos, "distance": min_dist}
-

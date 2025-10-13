@@ -1,10 +1,11 @@
 from pathlib import Path
+from typing import Union, Dict
 from .config_loader import load_config
 from .path_parser import load_path, extract_commands
 from .calculations import calculate_total_wait, calculate_distances, get_flight_speed, get_commands_count
 from .utils import _format_time
 
-def run_estimation(config_file: str | Path) -> dict:
+def run_estimation(config_file: Union[str, Path]) -> Dict:
     """
     Run the full estimation pipeline, including calibrated time vs battery.
 

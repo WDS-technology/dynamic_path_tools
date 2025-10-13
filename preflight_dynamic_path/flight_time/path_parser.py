@@ -1,7 +1,6 @@
 import json
 from pathlib import Path
-from typing import Any, Dict, List
-from typing import List, Dict
+from typing import Any, Dict, List, Union
 
 RELEVANT_COMMANDS = {
     "SCHEDULE_TAKEOFF",
@@ -11,7 +10,7 @@ RELEVANT_COMMANDS = {
     "SCHEDULE_FLY_TO_Z",
 }
 
-def load_path(path_file: str | Path) -> Dict[str, Any]:
+def load_path(path_file: Union[str, Path]) -> Dict[str, Any]:
     """
     Load path JSON file.
 
@@ -71,4 +70,3 @@ def extract_commands(path_data: List[Dict]) -> List[Dict]:
             last_position.update({"z": z})
 
     return commands
-
