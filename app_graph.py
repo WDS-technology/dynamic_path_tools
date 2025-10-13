@@ -4,8 +4,8 @@ warehouse_map = load_warehouse_map("warehouse_map.json")
 
 G, pos_to_node = build_graph(warehouse_map)
 
-start_node = "P17_W3"
-end_node = "P15_W2"
+start_node = "P31_W3"
+end_node = "P37_W2"
 
 path, file_content = shortest_path(G, start_node, end_node)
 print("Calculated path:", (path, file_content))
