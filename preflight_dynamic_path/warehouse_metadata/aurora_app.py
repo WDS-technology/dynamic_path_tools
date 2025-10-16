@@ -3,6 +3,7 @@ from botocore.config import Config
 from sqlalchemy import create_engine, Table, MetaData, select, update
 from sqlalchemy.orm import sessionmaker, declarative_base
 import json
+import csv
 
 # --- AWS clients configuration ---
 boto_config = Config(connect_timeout=5, read_timeout=15, retries={"max_attempts": 1, "mode": "standard"})
@@ -24,6 +25,8 @@ def get_secret(secret_name: str) -> dict:
 def get_db_credentials():
     db_host = get_parameter("db-endpoint-tenant-dev")  
     db_secret = get_secret("rds!cluster-496992e7-8e6e-4c59-800d-78abd6468aef") 
+
+    print(db_secret["password"])
 
     return {
         "host": db_host,
@@ -180,15 +183,61 @@ def set_shelf_y_for_passage_column(passage: str, column: str, new_y: float) -> i
 
     return result.rowcount
 
+def update_x_from_csv(file_path: str):
+    """
+    Reads a CSV file and updates the shelf_x position for each passage.
 
+    Args:
+        file_path: The path to the CSV file.
+    """
+    with open(file_path, 'r') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            passage = row['passage']
+            x_val = float(row['x_val'])
+            
+            # Ensure passage is a 2-digit string
+            if len(passage) == 1:
+                passage = f"0{passage}"
 
+            updated_rows = set_shelf_x_for_passage(passage, x_val)
+            print(f"Updated {updated_rows} shelves in passage {passage} with x_val {x_val}.")
+
+def update_y_from_csv(file_path: str):
+    """
+    Reads a CSV file and updates the shelf_y position for each passage and column.
+
+    Args:
+        file_path: The path to the CSV file.
+    """
+    with open(file_path, 'r') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for passage_num in range(13, 39):
+            passage = str(passage_num)
+            if len(passage) == 1:
+                passage = f"0{passage}"
+            
+            # Reset file pointer to the beginning of the file for each passage
+            csvfile.seek(0)
+            next(reader) # Skip header
+
+            for row in reader:
+                column = row['column']
+                y_val = float(row['distance'])
+
+                if len(column) == 1:
+                    column = f"0{column}"
+
+                updated_rows = set_shelf_y_for_passage_column(passage, column, y_val)
+                print(f"Updated {updated_rows} shelves in passage {passage}, column {column} with y_val {y_val}.")
 
 if __name__ == "__main__":
 
     # === test 1 ===
-    # shelf_id_input = input("Enter shelf ID: ")
-    # print(validate_shelf_id(shelf_id_input))
-    # get_shelf_position(shelf_id_input)
+    shelf_id_input = input("Enter shelf ID: ")
+    print(validate_shelf_id(shelf_id_input))
+    position = get_shelf_position(shelf_id_input)
+    print(position)
 
     # === test 2 ===
     # passage = input("Enter passage (2 digits): ")
@@ -204,8 +253,14 @@ if __name__ == "__main__":
     # print(f"Updated {updated_rows} shelves in passage {passage}, level {level}.")
 
     # === test 4 ===
-    passage = input("Enter passage (2 digits): ")
-    column = input("Enter column (2 digits): ")
-    new_y = float(input("Enter new Y value: "))
-    updated_rows = set_shelf_y_for_passage_column(passage, column, new_y)
-    print(f"Updated {updated_rows} shelves in passage {passage}, column {column}.")
+    # passage = input("Enter passage (2 digits): ")
+    # column = input("Enter column (2 digits): ")
+    # new_y = float(input("Enter new Y value: "))
+    # updated_rows = set_shelf_y_for_passage_column(passage, column, new_y)
+    # print(f"Updated {updated_rows} shelves in passage {passage}, column {column}.")
+    
+    # === test 5 ===
+    # update_x_from_csv("preflight_dynamic_path/warehouse_metadata/passage_x.csv")
+    
+    # === test 6 ===
+    # update_y_from_csv("preflight_dynamic_path/warehouse_metadata/passage_y.csv")
