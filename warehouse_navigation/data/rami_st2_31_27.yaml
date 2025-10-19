@@ -1,3003 +1,3003 @@
 %YAML:1.0
 hires2:
   codes:
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3101201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3101202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3102201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3102202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3103201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3103202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3104201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3104202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3105201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3105202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3106201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3106202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3107201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3107202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3108201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3108202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3109201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3109202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3110201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3110202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3111201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3111202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3112201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3112202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3113201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3113202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3114201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3114202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3115201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3115202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3116201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3116202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3117201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3117202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3118201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3118202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3119201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3119202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3120201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3120202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3121201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3121202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3122201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3122202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3123201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3123202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3124201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3124202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3125201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 0.08]
-    Type: Code 128
-    code: '3125202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3101301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3101302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3102301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3102302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3103301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3103302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3104301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3104302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3105301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3105302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3106301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3106302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3107301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3107302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3108301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3108302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3109301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3109302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3110301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3110302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3111301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3111302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3112301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3112302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3113301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3113302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3114301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3114302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3115301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3115302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3116301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3116302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3117301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3117302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3118301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3118302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3119301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3119302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3120301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3120302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3121301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3121302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3122301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3122302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3123301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3123302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3124301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3124302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3125301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 2.08]
-    Type: Code 128
-    code: '3125302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3101401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3101402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3102401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3102402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3103401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3103402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3104401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3104402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3105401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3105402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3106401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3106402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3107401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3107402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3108401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3108402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3109401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3109402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3110401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3110402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3111401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3111402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3112401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3112402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3113401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3113402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3114401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3114402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3115401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3115402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3116401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3116402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3117401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3117402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3118401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3118402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3119401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3119402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3120401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3120402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3121401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3121402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3122401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3122402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3123401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3123402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3124401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3124402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3125401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 4.08]
-    Type: Code 128
-    code: '3125402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3101501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3101502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3102501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3102502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3103501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3103502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3104501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3104502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3105501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3105502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3106501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3106502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3107501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3107502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3108501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3108502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3109501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3109502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3110501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3110502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3111501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3111502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3112501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3112502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3113501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3113502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3114501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3114502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3115501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3115502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3116501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3116502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3117501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3117502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3118501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3118502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3119501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3119502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3120501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3120502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3121501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3121502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3122501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3122502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3123501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3123502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3124501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3124502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3125501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 6.08]
-    Type: Code 128
-    code: '3125502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3101601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3101602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3102601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3102602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3103601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3103602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3104601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3104602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3105601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3105602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3106601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3106602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3107601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3107602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3108601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3108602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3109601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3109602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3110601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3110602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3111601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3111602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3112601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3112602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3113601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3113602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3114601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3114602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3115601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3115602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3116601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3116602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3117601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3117602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3118601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3118602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3119601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3119602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3120601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3120602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3121601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3121602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3122601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3122602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3123601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3123602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3124601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3124602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3125601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-1.75, 0, 8.08]
-    Type: Code 128
-    code: '3125602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2701201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2701202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2702201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2702202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2703201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2703202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2704201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2704202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2705201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2705202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2706201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2706202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2707201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2707202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2708201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2708202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2709201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2709202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2710201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2710202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2711201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2711202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2712201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2712202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2713201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2713202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2714201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2714202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2715201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2715202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2716201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2716202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2717201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2717202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2718201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2718202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2719201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2719202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2720201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2720202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2721201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2721202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2722201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2722202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2723201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2723202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2724201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2724202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2725201'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 0.08]
-    Type: Code 128
-    code: '2725202'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2701301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2701302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2702301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2702302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2703301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2703302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2704301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2704302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2705301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2705302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2706301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2706302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2707301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2707302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2708301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2708302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2709301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2709302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2710301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2710302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2711301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2711302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2712301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2712302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2713301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2713302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2714301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2714302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2715301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2715302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2716301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2716302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2717301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2717302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2718301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2718302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2719301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2719302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2720301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2720302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2721301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2721302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2722301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2722302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2723301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2723302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2724301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2724302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2725301'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 2.08]
-    Type: Code 128
-    code: '2725302'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2701401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2701402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2702401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2702402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2703401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2703402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2704401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2704402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2705401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2705402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2706401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2706402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2707401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2707402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2708401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2708402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2709401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2709402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2710401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2710402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2711401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2711402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2712401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2712402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2713401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2713402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2714401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2714402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2715401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2715402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2716401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2716402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2717401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2717402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2718401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2718402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2719401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2719402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2720401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2720402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2721401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2721402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2722401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2722402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2723401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2723402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2724401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2724402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2725401'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 4.08]
-    Type: Code 128
-    code: '2725402'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2701501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2701502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2702501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2702502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2703501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2703502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2704501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2704502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2705501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2705502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2706501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2706502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2707501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2707502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2708501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2708502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2709501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2709502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2710501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2710502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2711501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2711502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2712501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2712502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2713501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2713502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2714501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2714502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2715501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2715502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2716501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2716502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2717501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2717502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2718501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2718502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2719501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2719502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2720501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2720502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2721501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2721502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2722501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2722502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2723501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2723502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2724501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2724502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2725501'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 6.08]
-    Type: Code 128
-    code: '2725502'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2701601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2701602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2702601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2702602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2703601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2703602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2704601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2704602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2705601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2705602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2706601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2706602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2707601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2707602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2708601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2708602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2709601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2709602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2710601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2710602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2711601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2711602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2712601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2712602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2713601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2713602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2714601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2714602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2715601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2715602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2716601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2716602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2717601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2717602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2718601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2718602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2719601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2719602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2720601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2720602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2721601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2721602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2722601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2722602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2723601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2723602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2724601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2724602'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2725601'
-    fix_y: 0
-  - Dim: [0.125, 0.04]
-    Orientation: [0, 0, 0]
-    Position: [-13.2, 0, 8.08]
-    Type: Code 128
-    code: '2725602'
-    fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3101201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3101202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3102201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3102202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3103201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3103202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3104201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3104202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3105201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3105202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3106201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3106202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3107201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3107202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3108201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3108202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3109201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3109202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3110201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3110202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3111201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3111202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3112201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3112202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3113201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3113202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3114201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3114202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3115201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3115202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3116201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3116202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3117201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3117202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3118201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3118202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3119201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3119202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3120201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3120202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3121201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3121202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3122201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3122202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3123201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3123202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3124201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3124202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3125201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 0.08]
+      Type: Code 128
+      code: '3125202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3101301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3101302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3102301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3102302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3103301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3103302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3104301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3104302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3105301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3105302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3106301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3106302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3107301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3107302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3108301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3108302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3109301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3109302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3110301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3110302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3111301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3111302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3112301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3112302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3113301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3113302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3114301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3114302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3115301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3115302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3116301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3116302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3117301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3117302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3118301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3118302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3119301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3119302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3120301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3120302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3121301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3121302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3122301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3122302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3123301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3123302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3124301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3124302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3125301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 2.08]
+      Type: Code 128
+      code: '3125302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3101401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3101402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3102401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3102402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3103401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3103402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3104401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3104402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3105401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3105402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3106401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3106402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3107401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3107402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3108401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3108402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3109401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3109402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3110401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3110402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3111401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3111402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3112401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3112402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3113401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3113402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3114401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3114402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3115401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3115402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3116401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3116402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3117401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3117402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3118401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3118402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3119401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3119402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3120401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3120402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3121401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3121402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3122401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3122402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3123401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3123402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3124401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3124402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3125401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 4.08]
+      Type: Code 128
+      code: '3125402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3101501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3101502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3102501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3102502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3103501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3103502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3104501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3104502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3105501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3105502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3106501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3106502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3107501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3107502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3108501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3108502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3109501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3109502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3110501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3110502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3111501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3111502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3112501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3112502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3113501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3113502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3114501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3114502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3115501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3115502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3116501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3116502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3117501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3117502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3118501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3118502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3119501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3119502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3120501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3120502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3121501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3121502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3122501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3122502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3123501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3123502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3124501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3124502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3125501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 6.08]
+      Type: Code 128
+      code: '3125502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3101601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3101602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3102601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3102602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3103601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3103602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3104601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3104602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3105601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3105602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3106601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3106602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3107601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3107602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3108601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3108602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3109601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3109602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3110601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3110602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3111601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3111602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3112601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3112602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3113601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3113602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3114601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3114602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3115601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3115602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3116601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3116602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3117601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3117602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3118601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3118602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3119601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3119602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3120601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3120602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3121601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3121602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3122601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3122602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3123601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3123602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3124601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3124602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3125601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-1.75, 0, 8.08]
+      Type: Code 128
+      code: '3125602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2701201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2701202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2702201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2702202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2703201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2703202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2704201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2704202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2705201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2705202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2706201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2706202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2707201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2707202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2708201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2708202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2709201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2709202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2710201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2710202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2711201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2711202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2712201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2712202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2713201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2713202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2714201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2714202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2715201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2715202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2716201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2716202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2717201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2717202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2718201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2718202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2719201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2719202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2720201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2720202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2721201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2721202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2722201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2722202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2723201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2723202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2724201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2724202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2725201'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 0.08]
+      Type: Code 128
+      code: '2725202'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2701301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2701302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2702301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2702302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2703301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2703302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2704301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2704302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2705301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2705302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2706301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2706302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2707301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2707302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2708301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2708302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2709301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2709302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2710301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2710302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2711301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2711302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2712301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2712302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2713301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2713302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2714301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2714302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2715301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2715302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2716301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2716302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2717301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2717302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2718301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2718302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2719301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2719302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2720301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2720302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2721301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2721302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2722301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2722302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2723301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2723302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2724301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2724302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2725301'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 2.08]
+      Type: Code 128
+      code: '2725302'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2701401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2701402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2702401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2702402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2703401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2703402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2704401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2704402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2705401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2705402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2706401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2706402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2707401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2707402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2708401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2708402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2709401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2709402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2710401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2710402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2711401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2711402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2712401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2712402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2713401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2713402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2714401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2714402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2715401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2715402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2716401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2716402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2717401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2717402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2718401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2718402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2719401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2719402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2720401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2720402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2721401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2721402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2722401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2722402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2723401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2723402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2724401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2724402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2725401'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 4.08]
+      Type: Code 128
+      code: '2725402'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2701501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2701502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2702501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2702502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2703501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2703502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2704501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2704502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2705501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2705502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2706501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2706502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2707501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2707502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2708501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2708502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2709501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2709502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2710501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2710502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2711501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2711502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2712501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2712502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2713501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2713502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2714501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2714502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2715501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2715502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2716501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2716502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2717501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2717502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2718501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2718502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2719501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2719502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2720501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2720502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2721501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2721502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2722501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2722502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2723501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2723502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2724501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2724502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2725501'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 6.08]
+      Type: Code 128
+      code: '2725502'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2701601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2701602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2702601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2702602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2703601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2703602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2704601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2704602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2705601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2705602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2706601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2706602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2707601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2707602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2708601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2708602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2709601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2709602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2710601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2710602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2711601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2711602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2712601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2712602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2713601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2713602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2714601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2714602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2715601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2715602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2716601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2716602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2717601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2717602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2718601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2718602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2719601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2719602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2720601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2720602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2721601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2721602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2722601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2722602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2723601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2723602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2724601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2724602'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2725601'
+      fix_y: 0
+    - Dim: [0.125, 0.04]
+      Orientation: [0, 0, 0]
+      Position: [-13.2, 0, 8.08]
+      Type: Code 128
+      code: '2725602'
+      fix_y: 0
