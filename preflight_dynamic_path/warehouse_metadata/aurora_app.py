@@ -26,6 +26,7 @@ def get_db_credentials():
     db_host = get_parameter("db-endpoint-tenant-dev")  
     db_secret = get_secret("rds!cluster-496992e7-8e6e-4c59-800d-78abd6468aef") 
 
+    print(db_host)
     print(db_secret["password"])
 
     return {

@@ -117,3 +117,4 @@ dmypy.json
 .pyre/
 
 
+preflight_dynamic_path/warehouse_metadata/.~lock.passage_x copy.csv#
