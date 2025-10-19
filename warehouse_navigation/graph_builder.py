@@ -1,10 +1,12 @@
 import json
 from pathlib import Path
-from typing import Union, List, Dict, Tuple
+from typing import Union, List, Dict, Tuple, Optional
 import networkx as nx
 import matplotlib.pyplot as plt
 from collections import defaultdict
 from math import sqrt
+import glob
+from pathlib import Path
 
 def load_warehouse_map(path: Union[str, Path]) -> List[Dict]:
     """Load warehouse map from JSON file (flat list of passage points)."""
@@ -70,9 +72,10 @@ def build_graph(passages: List[Dict]):
 
     return G, pos_to_node
 
-def shortest_path(G: nx.DiGraph, start: str, end: str, return_coords: bool = False) -> List:
+def shortest_path(G: nx.DiGraph, start: str, end: str, return_coords: bool = False) -> Tuple[List, Optional[str]]:
     """
     Compute shortest path between start and end nodes.
+    Also attempts to load a relevant YAML config file based on passage IDs.
 
     Args:
         G: networkx DiGraph.
@@ -81,18 +84,47 @@ def shortest_path(G: nx.DiGraph, start: str, end: str, return_coords: bool = Fal
         return_coords: if True, return list of coordinates instead of node IDs.
 
     Returns:
-        List of node IDs or list of coordinates along the path.
+        Tuple[List, Optional[str]]: A tuple containing:
+            - List of node IDs or list of coordinates along the path.
+            - The content of the loaded YAML file as a string, or None if not found.
     """
     path_nodes = nx.shortest_path(G, source=start, target=end)
+    start_passage = path_nodes[0].split('_W')[0][1:]
+    end_passage = path_nodes[-1].split('_W')[0][1:]
+
+    print(f"Start passage: {start_passage}")
+    print(f"End passage: {end_passage}")
+
+    loaded_yaml_content = None
+    # Adjust path for glob to be relative to the submodule root
+    yaml_files = glob.glob(str(Path(__file__).parent.parent / "warehouse_navigation" / "data" / "*.yaml"))
+
+    print("yaml_files", yaml_files)
+
+    passage_version_1 = start_passage + "_" + end_passage
+    passage_version_2 = end_passage + "_" + start_passage
+
+    print("Looking for passage versions:", passage_version_1, passage_version_2)
+    
+    for yaml_file_path in yaml_files:
+        filename = Path(yaml_file_path).name
+        if passage_version_1 in filename or passage_version_2 in filename:
+            with open(yaml_file_path, 'r') as f:
+                loaded_yaml_content = f.read()
+            break
+
     
     if return_coords:
-        return [G.nodes[node]["pos"] for node in path_nodes]
+        return [G.nodes[node]["pos"] for node in path_nodes], loaded_yaml_content
     else:
-        return path_nodes
+        return path_nodes, loaded_yaml_content
 
 
 def plot_path(G: nx.DiGraph, path: List[str], title: str = ""):
-    """Plot graph with highlighted path, ignoring Z."""
+    """
+    Plot graph with highlighted path, ignoring Z.
+    (Requires matplotlib and networkx to be installed)
+    """
     # Extract only x, y for plotting
     pos = {node: (coords[0], coords[1]) for node, coords in nx.get_node_attributes(G, 'pos').items()}
 
